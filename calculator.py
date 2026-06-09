@@ -1,6 +1,6 @@
 while True:
-    num1 = float(input('enter the first number:'))
-    num2 = float(input('enter the seccond number:'))
+    num1 = float(input('enter first number:'))
+    num2 = float(input('enter seccond number:'))
     print('+  -  *  /')
     ch = input('choose an operation:')
     if ch == '+' :
